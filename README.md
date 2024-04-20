@@ -42,8 +42,8 @@ pip install -r requirements.txt
 Create a .env file in the project's root directory with the following contents:
 
 ```bash
-OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
-BROWSERLESS_API_KEY="YOUR_BROWSERLESS_API_KEY"
+OPENAIAK="YOUR_OPENAI_API_KEY"
+BROWSERLESS="YOUR_BROWSERLESS_API_KEY"
 EMAIL="YOUR_OUTLOOK_EMAIL"
 EMAIL_PASSWORD="YOUR_OUTLOOK_PASSWORD"
 ```
